@@ -1,0 +1,1 @@
+I am creating this project to review making webpages in HTML. I will have demonstrated the ability to make an HTML boilterplate, write in different heading/font levels, create links, and insert images into web pages.
