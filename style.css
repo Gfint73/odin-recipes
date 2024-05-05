@@ -1,0 +1,28 @@
+h3 {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    background-color: rgb(160, 160, 160);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+ul {
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    list-style: none;
+}
+
+ol {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+}
+
+.image {
+    text-align: center;
+}
